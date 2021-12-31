@@ -7,6 +7,7 @@ export default function ButtomTabs() {
     <View
       style={{
         flexDirection: "row",
+        marginBottom:1,
         margin: 10,
         marginHorizontal: 30,
         justifyContent: "space-between",
